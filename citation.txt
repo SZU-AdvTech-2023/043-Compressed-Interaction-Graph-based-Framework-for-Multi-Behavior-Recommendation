@@ -1,0 +1,6 @@
+@article{REPO043,
+    author = "Guo, Wei and Meng, Chang and Yuan, Enming and He, Zhicheng and Guo, Huifeng and Zhang, Yingxue and Chen, Bo and Hu, Yaochen and Tang, Ruiming and Li, Xiu and others",
+    journal = "arXiv preprint arXiv:2303.02418",
+    title = "{Compressed Interaction Graph based Framework for Multi-behavior Recommendation}",
+    year = "2023"
+}
